@@ -31,7 +31,7 @@ function buildGauge(WFREQ) {
     {
       domain: { x: [0], y: [0] },
       value: WFREQ,
-      title: { text: "Belly Buttion Washing Frequency" },
+      title: { text: "Belly Button Washing Frequency" },
       type: "indicator",
       mode: "gauge+number+delta",
       gauge: {
@@ -44,7 +44,7 @@ function buildGauge(WFREQ) {
     }];
   
   var layout = { 
-    width: 600, 
+    width: 400, 
     height: 450, 
     margin: { t: 0, b: 0 },
     title: 'Scrubs Per Week',
@@ -116,7 +116,7 @@ function buildCharts(sample) {
 
       var layout = {
         height: 600,
-        width: 800,
+        width: 400,
         showlegend: true,
         legend: {"orientation": "h"}
       };
