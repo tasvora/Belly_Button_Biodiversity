@@ -2,5 +2,5 @@
 ## http://ec2-3-17-187-245.us-east-2.compute.amazonaws.com:5000/
 
 
-![DashboardImage](images/DashboardImage.png)
+![DashboardImage](images/DashBoardScreenShot.png)
 
