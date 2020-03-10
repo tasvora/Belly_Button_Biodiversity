@@ -1,6 +1,6 @@
 # Belly Button Diversity Project
-## http://ec2-3-17-187-245.us-east-2.compute.amazonaws.com:5000/
+## http://ec2-18-222-103-52.us-east-2.compute.amazonaws.com:5000/
 
 
-![DashboardImage](images/DashBoardScreenShot.png)
+![DashboardImage](images/PlottlyProjDemo.gif)
 
